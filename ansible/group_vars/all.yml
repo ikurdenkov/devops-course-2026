@@ -1,0 +1,6 @@
+---
+app_image: "ghcr.io/ikurdenkov/devops-ci-app"
+app_tag: "0f9ca2125f034a2cfdbdb5779ef50a16161f887c"
+app_container_name: "devops-ci-app"
+app_host_port: 5000
+app_internal_port: 5000
